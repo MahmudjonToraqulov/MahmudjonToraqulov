@@ -4,7 +4,8 @@
 
 I'm Makhmoodjan, from Uzbekistan and I build Fullstack Website.I really enjoy learning new technologies, frameworks and languages like Django,React,Python,VueJs. How to reach me: email -> toraqulovmahmudjon@gmail.
 
-Skills: REACT / Django / Python / JS / HTML / CSS /  VUE JS 
+Skills: REACT / Django / Django Rest Framework / Python / JS / HTML / CSS /  VUE JS / Bootstrap / Material Ui 
+Extra Skills: Php / Node Js / C++ 
 
 - 🔭 I’m currently working on this page. 
 
