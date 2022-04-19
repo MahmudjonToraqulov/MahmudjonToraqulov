@@ -4,8 +4,13 @@
 
 I'm Makhmoodjan, from Uzbekistan and I build Fullstack Website.I really enjoy learning new technologies, frameworks and languages like Django,React,Python,VueJs. How to reach me: email -> toraqulovmahmudjon@gmail.
 
-Skills: REACT / Django / Django Rest Framework / Python / JS / HTML / CSS /  VUE JS / Bootstrap / Material Ui 
-
+Skills (Main Programming Langugages):  Python / JavaScript ec6+ 
+Skills (Data Bases):  PostgreSQL , SQL and etc.
+Skills (Frontend Web):  HTML5  /  CSS3  /  SASS/SCSS/LESS  /  BOOTSTRAP  / Material Ui  
+Skills (Framworks for Backend Web): Django , Django Rest Framework    
+Skills (Framworks for Frontent Web): React Js     
+Skills (Second Languages or Frameworks): Vue Js / Php / Node Js / Semantic UI/Materialize / MangoDB and etc.    
+ 
 
 
 Extra Skills: Php / Node Js / C++ 
