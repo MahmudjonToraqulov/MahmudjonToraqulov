@@ -7,7 +7,7 @@ I'm Makhmoodjan, from Uzbekistan and I build Fullstack Website.I really enjoy le
 
 Skills (Main Programming Langugages):  Python / JavaScript ec6+ 
 
-Skills (Data Bases):  PostgreSQL , MangoDb ,SQL  and etc.
+Skills (Data Bases):  PostgreSQL , MangoDb ,SQL  and etc...
 
 Skills (Frontend Web):  HTML5  /  CSS3  /  SASS/SCSS/LESS  /  BOOTSTRAP  / Material Ui  
 
