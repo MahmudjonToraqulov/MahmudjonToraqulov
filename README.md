@@ -13,7 +13,7 @@ Skills (Frontend Web):  HTML5  /  CSS3  /  SASS/SCSS/LESS  /  BOOTSTRAP  / Mater
 
 Skills (Framworks for Backend Web): Django , Django Rest Framework    
 
-Skills (Framworks for Frontent Web): React Js  
+Skills (Framworks for Frontent Web): React Js .
 
 Skills (Second Languages or Frameworks): Vue Js / C++  / Php / Node Js / Semantic UI/Materialize / Tailwind Css / MangoDB and etc.    
  
