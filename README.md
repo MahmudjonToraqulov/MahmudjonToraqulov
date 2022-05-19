@@ -30,6 +30,5 @@ Skills (Second Languages or Frameworks): Vue Js / C++  / Php / Node Js / Semanti
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmudjonToraqulov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' theme='one_dark' title_color='#173d05' height='40'>](makhmoodstudy.netlify.app)  
  
  
