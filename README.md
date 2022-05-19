@@ -25,8 +25,7 @@ Skills (Second Languages or Frameworks): Vue Js / C++  / Php / Node Js / Semanti
 - 💬 Ask me about working as a freelancer
 - 📫 How to reach me: email -> toraqulovmahmudjon@gmail. 
 - ⚡ Fun fact:  I'm fond of playing and watching football.  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudjontoraqulov)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 
 
