@@ -5,6 +5,7 @@
 I'm Makhmoodjan, from Uzbekistan and I build Fullstack Website.I really enjoy learning new technologies, frameworks and languages like Django,React,Python,VueJs. How to reach me: email -> toraqulovmahmudjon@gmail.
 
 
+
 Skills (Main Programming Langugages):  Python / JavaScript ec6+ 
 
 Skills (Data Bases):  PostgreSQL , MangoDb ,SQL  and etc...
