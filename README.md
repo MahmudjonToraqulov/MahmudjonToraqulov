@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Makhmoodjan
 #### I am Fullstack Developer
 
-I'm Makhmoodjan, from Uzbekistan and I build Fullstack Website.I really enjoy learning new technologies, frameworks and languages like Django,React,Python,VueJs. How to reach me: email -> toraqulovmahmudjon@gmail.
+I'm Mahmudjon, Software Engineer from Uzbekistan.
 
 
-Skills (Main Programming Langugages):  Python / JavaScript ec6+ 
+Skills (Main Programming Langugages):   JavaScript / TypeScript / Python
 
-Skills (Data Bases):  PostgreSQL , MangoDb ,SQL  and etc...
+Skills (Data Bases):  PostgreSQL, MySQL , MangoDb ,SQL  and etc...
 
 Skills (Frontend Web):  HTML5  /  CSS3  /  SASS/SCSS/LESS  /  BOOTSTRAP  / Material Ui  
 
@@ -19,15 +19,13 @@ Skills (Second Languages or Frameworks): Vue Js / C++  / Php / Node Js / Semanti
   
  
  
-- 🔭 I’m currently studying at TUITFB and working as a freelancer
 - 🌱 I’m currently working as a freelancer
 - 👯 I’m looking to collaborate on other developers 
-- 💬 Ask me about working as a freelancer
-- 📫 How to reach me: email -> toraqulovmahmudjon@gmail. 
-- ⚡ Fun fact:  I'm fond of playing and watching football.  
+- 📫 How to reach me: email -> toraqulovmahmudjon@gmail
+- ⚡ Fun fact:  Playing and watching football is my cup of tea  
  
 
 
-UPDATED: 18.04.2023
+UPDATED: 01.11.2024
  
  
